@@ -1,14 +1,13 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
-    "start": "node src/index.js"
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mehdi",
   "type": "module",
   "license": "ISC",
   "dependencies": {
@@ -24,5 +23,6 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
-  }
+  },
+  "description": ""
 }
